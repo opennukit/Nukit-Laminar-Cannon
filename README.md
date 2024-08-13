@@ -48,7 +48,7 @@ Nukit has a “Skunk Works”, which, in this context refers to in-house work do
 We suggest [SuperBuy](https://www.superbuy.com/en/) for all TaoBao components. This project requires a 3D printer and a reasonable degree of technical ability to execute. Regrettably, we cannot offer sourcing or fabrication assistance.
 
 **Internal View and Assembly**
-![Nukit Laminar Cannon Internal View and Assembly](https://raw.githubusercontent.com/opennukit/Nukit-Laminar-Cannon/main/Content/Laminar-Canon-Internals.jpg?raw=true)
+![Nukit Laminar Cannon Internal View and Assembly](https://github.com/opennukit/Nukit-Laminar-Cannon/blob/main/Content/Laminar-Canon-Internals.jpg?raw=true)
 
 **License**
 ---
