@@ -43,6 +43,13 @@ They aren't for sale and probably will never be —at least in this form. Quite 
 
 Nukit has a “Skunk Works”, which, in this context refers to in-house work done on special concept builds intended for limited deployment. These are used to gauge consumer acceptance, practicality, and technical feasibility of novel mitigation measures. The knowledge gained in the process may result in production units or simply additional data points to shape future product development. We try to Open Source those designs and put them into the public domain whenever possible. For one, to prevent others from patenting them and putting those ideas out of reach of those who need them most.
 
+**Fabrication**
+---
+We suggest [SuperBuy](https://www.superbuy.com/en/) for all TaoBao components. This project requires a 3D printer and a reasonable degree of technical ability to execute. Regrettably, we cannot offer sourcing or fabrication assistance.
+
+**Internal View and Assembly**
+![Nukit Laminar Cannon Internal View and Assembly](https://raw.githubusercontent.com/opennukit/Nukit-Laminar-Cannon/main/Content/Laminar-Canon-Internals.jpg?raw=true)
+
 **License**
 ---
 The Nukit Laminar Cannon is released under GPL-3. 
