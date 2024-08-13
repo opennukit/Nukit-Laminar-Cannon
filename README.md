@@ -2,7 +2,7 @@
 ---
 The Laminar Cannon is an experimental device for directing a cohesive stream of highly filtered air at an individual in motion.
 
-![Nukit Open Air Purifier v1.0](https://github.com/opennukit/Nukit-Open-Air-Purifier/blob/main/Nukit-Open-Air-Purifier-3-v1.0.jpg?raw=true)
+![Nukit Laminar Cannon](https://github.com/opennukit/Nukit-Laminar-Cannon/blob/main/Content/Laminar-Canon-Front-and-Back.jpg?raw=true)
 
 There have been ongoing efforts to build laminar flow air filters in an attempt to create a pocket of clean air around an individual. Dilution is an accepted method of reducing the pathogen load in a given space, and this can, with some difficulty, be done somewhat locally. “Somewhat” because air is a fluid and wants to mix, so this is an extremely challenging task to accomplish, and the reduction is usually modest at best.
 
