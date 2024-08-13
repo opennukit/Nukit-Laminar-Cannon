@@ -18,9 +18,9 @@ The concept extends to 222nm Far-UVC. Depth cameras and off-the-shelf software r
 ---
 * Using computational fluid dynamic software to create more efficient laminar nozzle geometries.
 * Vetting face-tracking software packages to ensure optimal performance for this specific task.
-* Examining the viability of semi-localized Far-UVC as a mitigation method if multiple emitters are triangulated on a subject, either on its own or augmenting ambient Far-UVC covering a larger area and low power.
+* Examining the viability of semi-localized Far-UVC as a mitigation method if multiple emitters are triangulated on a subject, either on its own or augmenting ambient Far-UVC covering a larger area at lower power.
 
-The responsibility to safely deploy and use Nukit Open Air Purifiers lies entirely with the end user. Machinery Enchantress LLC offers no promises or warranties of any kind and is not liable for any mishaps that occur as a result of using these files.
+The responsibility to safely deploy and use the Nukit Laminar Cannon lies entirely with the end user. Machinery Enchantress LLC offers no promises or warranties of any kind and is not liable for any mishaps that occur as a result of using these files.
 
 **FAQ**
 ---
@@ -31,21 +31,21 @@ The STL files and BOM are sufficient for a reasonably handy person to construct 
 
 **Does this replace a well-fitted respirator?**
 
-No. Almost nothing does. This device may- with some iteration, offer some level of protection in parts of the world where local regimes are passing draconian laws that prevent masking. Wearing a respirator is always preferred- it is possible.
+No. Almost nothing does. This device may- with some iteration, offer some level of protection for performers and public speakers who refuse to mask, or be used in parts of the world where local regimes are passing draconian laws that prevent masking. Wearing a respirator is always preferred- if possible.
 
 
 **Where can I buy this? Will you sell it?**
 
-They aren't for sale, and probably will never be- at least in this form. Quite a bit of testing would need to be done before it can be released for public use. But the basic concepts will may be incorporated into future Nukit products.
+They aren't for sale and probably will never be —at least in this form. Quite a bit of testing would need to be done before they can be released for public use, but the basic concepts may be incorporated into future Nukit products.
 
 
 **Who made this?**
 
-Nukit has a “Skunk Works” in this context refers to work done on special concept builds intended for limited deployment. These are used to gauge consumer acceptance, practicality, and technical feasibility of novel mitigation measures. The knowledge gained in that process may result in production units or simply additional data points to shape future product development. Whenever possible, we try to Open Source those designs and put them into the public domain. For one thing, to prevent others from patenting them and putting those ideas out of reach of those who need them most.
+Nukit has a “Skunk Works”, which, in this context refers to in-house work done on special concept builds intended for limited deployment. These are used to gauge consumer acceptance, practicality, and technical feasibility of novel mitigation measures. The knowledge gained in the process may result in production units or simply additional data points to shape future product development. We try to Open Source those designs and put them into the public domain whenever possible. For one, to prevent others from patenting them and putting those ideas out of reach of those who need them most.
 
 **License**
 ---
-All Nukit Open Air Purifiers are released under GPL-3. 
+The Nukit Laminar Cannon is released under GPL-3. 
 https://www.gnu.org/licenses/gpl-3.0.en.html
 
 TLDR;
